@@ -1,0 +1,2 @@
+# platform_of_education_online
+基于Django rest framework 和Vue实现简单的在线教育平台
